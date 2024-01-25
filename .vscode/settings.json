@@ -2,6 +2,18 @@
     "files.associations": {
         "*.jsx": "javascriptreact",
         "*.ino": "arduino-output",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp"
     }
 }
